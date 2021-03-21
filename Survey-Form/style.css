@@ -1,0 +1,58 @@
+
+body{
+    font-family: 'Lato', sans-serif;
+    color:white;
+    background-image: linear-gradient(0deg, rgba(0,255,0,0.4), rgba(255,0,0,0.2)), url("https://cdn.freecodecamp.org/testable-projects-fcc/images/survey-form-background.jpeg")
+    ;
+    background-repeat: no-repeat;
+  
+    background-size:cover;
+    
+    background-position: top center;
+   
+ 
+}
+h3{
+    font-family: Lato;
+    src:url(https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap) format(Lato);
+}
+
+form{     
+    line-height: 1.6rem;
+    padding: 30px;
+    margin: 30px 30% 30px 30%;
+    background-color: #2A2A4A;
+    opacity: 90%;
+}
+
+input, select, textarea, button{
+    padding:5px;
+    border-radius: 3px;
+    border: 0 solid white;
+    
+   
+}
+
+
+button{
+  background-color: #47CF73;
+  padding: 14px 28px;
+}
+
+
+#intro{
+    text-align: center;
+    
+}
+
+/*using the below code to get the width of all elements to match*/
+ button, textarea, select, input[type="text"]{
+    width:100%;
+    box-sizing:border-box;
+    margin-bottom: 10px;
+    
+  }
+
+  .question{
+    line-height: 2.2rem;
+  }
