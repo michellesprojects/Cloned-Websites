@@ -1,4 +1,6 @@
-Original Webiste:
+Original Page:
+
+![Orginal Website](original-page.png)
 
 
-Cloned Website: 
+Cloned Page: 
