@@ -5,7 +5,7 @@ html, body{
     overflow-x: scroll;
     font-family: 'Lato', sans-serif;
     color:white;
-    background-image: linear-gradient(115deg, rgba(92, 92, 159, 0.7), rgba(92, 92, 159, 0.7)), url("https://cdn.freecodecamp.org/testable-projects-fcc/images/survey-form-background.jpeg");
+    background-image: linear-gradient(115deg, rgba(70, 70, 161, 0.8), rgba(135, 135, 192, 0.7)), url("https://cdn.freecodecamp.org/testable-projects-fcc/images/survey-form-background.jpeg");
     height:100%;
     width:100%;
     background-attachment: fixed;
@@ -24,7 +24,7 @@ h3{
 form{     
     line-height: 1.6rem;
     padding: 30px;
-    margin: 30px 30% 30px 30%;
+    margin: 30px 35% 30px 35%;
     background-color: #2A2A4A;
     opacity: 90%;
 }
@@ -50,7 +50,8 @@ button{
 }
 
 /*using the below code to get the width of all elements to match*/
- button, textarea, select, input[type="text"]{
+ option, button, textarea, select, input[type="text"]{
+   
     width:100%;
     box-sizing:border-box;
     margin-bottom: 10px;
@@ -58,5 +59,6 @@ button{
   }
 
   .question{
-    line-height: 2.2rem;
+    line-height: 2.5rem;
+   
   }
