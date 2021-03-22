@@ -1,14 +1,18 @@
 
-body{
+
+html, body{
+   
+    overflow-x: scroll;
     font-family: 'Lato', sans-serif;
     color:white;
-    background-image: linear-gradient(0deg, rgba(0,255,0,0.4), rgba(255,0,0,0.2)), url("https://cdn.freecodecamp.org/testable-projects-fcc/images/survey-form-background.jpeg")
-    ;
+    background-image: linear-gradient(115deg, rgba(92, 92, 159, 0.7), rgba(92, 92, 159, 0.7)), url("https://cdn.freecodecamp.org/testable-projects-fcc/images/survey-form-background.jpeg");
+    height:100%;
+    width:100%;
+    background-attachment: fixed;
     background-repeat: no-repeat;
-  
-    background-size:cover;
-    
-    background-position: top center;
+    background-position: center;
+    background-size: cover;
+   
    
  
 }
