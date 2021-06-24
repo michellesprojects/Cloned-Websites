@@ -16,39 +16,39 @@ A Collection of Websites I've Cloned for HTML/CSS practice
 
 # Neflix 
 
-Original Page:
+# Original Page:
 
 ![Orginal Website](Netflix-Clone/netflix.png)
 
 
-Cloned Page: 
+# Cloned Page: 
 
 ![Cloned Website](Netflix-Clone/nf-clone.png)
 
 # Survey Form
 
-Original Page:
+# Original Page:
 
 ![Orginal survey form](Survey-Form/original-page.png)
 
-Cloned Page:
+# Cloned Page:
 
 ![Cloned Website](Survey-Form/cloned-page.png)
 
 # Documentation Page
 
-Original Page:
+# Original Page:
 
 ![Orginal Website](Technical-Document-Page/tech-original.png)
 
-Cloned Page: 
+# Cloned Page: 
 
 ![Cloned Website](Technical-Document-Page/tech-clone.png)
 
 
 # Tribute Page
 
-Original Page (Left) & Cloned Page (Right)
+# Original Page (Left) & Cloned Page (Right)
 
 ![Cloned Website](Tribute-Page/Clone-Comparison.png)
 
