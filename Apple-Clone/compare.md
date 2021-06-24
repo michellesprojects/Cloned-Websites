@@ -2,9 +2,9 @@
 
 # Original Page:
 
-![Orginal Website](apple-clone.png)
+![Orginal Website](apple.png)
 
 
 # Cloned Page: 
 
-![Cloned Website](apple.png)
+![Cloned Website](apple-clone.png)
