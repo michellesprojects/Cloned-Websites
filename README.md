@@ -1,6 +1,19 @@
 # Cloned-Websites
 A Collection of Websites I've Cloned for HTML/CSS practice 
 
+# Apple 
+
+# Original Page:
+
+![Original Website](Apple-Clone/apple.png)
+
+
+
+# Cloned Page: 
+
+![Cloned Website](Apple-Clone/apple-clone.png)
+
+
 # Neflix 
 
 Original Page:
